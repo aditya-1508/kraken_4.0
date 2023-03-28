@@ -1,0 +1,146 @@
+body
+{
+  margin:0;
+  background-color: grey;
+}
+h1
+{
+
+
+  text-align: center;
+  font-size: 8rem;
+
+font-family: 'Amatic SC', cursive;
+  line-height: 9rem;
+  color: grey;
+
+
+
+
+}
+#middle_container p
+{
+padding: 2rem;
+}
+#middle_container h1
+{
+
+
+  text-align: center;
+  font-size: 6rem;
+background-color: white;
+font-family: 'Amatic SC', cursive;
+  line-height: 6rem;
+  margin-left: 3rem;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
+  color: grey;
+
+  text-decoration-color: grey;
+
+
+}
+i
+{
+  margin-left: 3rem;
+}
+#top_container
+{
+  background-image: url(../images/3796236.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:70rem;
+  width: 100%;
+  position: relative;
+  background-position: center;
+
+}
+.navbar
+{
+  font-style: italic;
+  background-color: grey;
+}
+.list1
+{
+  margin-top: 50rem;
+  background-color: grey;
+}
+.navbar
+{
+  color: black;
+}
+#middle_container
+{
+  background-image: url(../images/farmer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:85rem;
+  width: 100%;
+
+
+  background-position: center;
+}
+.list2
+{
+  background-color: grey;
+  margin:3rem;
+}
+#bottom_container h1
+{
+  text-align: center;
+  font-size: 6rem;
+background-color: white;
+font-family: 'Amatic SC', cursive;
+  line-height: 6rem;
+  margin-left: 3rem;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
+  color: grey;
+
+  text-decoration-color: grey;
+
+
+}
+.ulclass
+{
+  font-family: 'Cormorant Garamond', serif;
+  color:white;
+  font-size: 1.5rem;
+}
+#footer
+{
+  text-align: center;
+  background-color: white;
+  font-size: 1.5rem;
+}
+#bottom_container
+{
+
+    background-image: url(../images/asian_farmers_03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height:80rem;
+    width: 100%;;
+
+
+    background-position: center;
+}
+#bottom_container p
+{
+  font-family:'Amatic SC', cursive;
+  font-size: 2rem;
+  line-height: 3rem;
+  background-color: grey;
+  color:white;
+
+  padding: 2rem;
+  /* margin-top: 60rem; */
+}
+.list
+{
+  background-color: grey;
+  margin-top:40rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
